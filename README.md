@@ -25,7 +25,7 @@ Install with npm:
 
 ## Quick start
 
-Add `rtl` class to any element and every thing inside that turn to RTL layout
+Add `rtl` class to any element then every thing inside that turns to RTL layout
 
 ## What's included
 
